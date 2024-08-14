@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69568931137",
+    "project_id": "chat-app-352d5",
+    "storage_bucket": "chat-app-352d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69568931137:android:71c94de18779bea4592dc0",
+        "android_client_info": {
+          "package_name": "uz.alisher.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEdZSEfg5YsJa7RsYCu4lpG2Ux9n9gUXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
